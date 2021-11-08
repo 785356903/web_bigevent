@@ -1,0 +1,2 @@
+ // 获取用户选择的文件（input file的获取）
+var filelist = e.target.files;
